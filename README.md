@@ -23,7 +23,6 @@ Para poder ejecutar las pruebas, se tiene que seguir los siguientes pasos:
 - Usa el siguiente comando para poder ejecutar las pruebas:
 <pre>pytest main.py</pre>
 - En la terminal, se debe de mostrar la información del progreso de las pruebas.
-- 
 
 ## Tecnologías
 
